@@ -26,12 +26,12 @@
 ##### [목차로 이동](#목차)
 
 ### flowchart
-<img src="./img/flowchart_1.png" width="200" height="400"></br>
+<img src="./img/flowchart_1.png" width="200" height="300"></br>
 
-1. [저장](#저장)
-2. [삭제](#삭제)
-3. [이전](#이전)
-4. [다음](#다음)
+1. [저장 클릭 시](#저장)
+2. [삭제 클릭 시](#삭제)
+3. [이전 클릭 시](#이전)
+4. [다음 클릭 시](#다음)
 
 ##### [목차로 이동](#목차)
 
@@ -46,12 +46,12 @@
 ##### [flowchart로 이동](#flowchart)
 
 #### 이전
-<img src="./img/flowchart_4.png" width="600" height="300"></br>
+<img src="./img/flowchart_4.png" width="500" height="240"></br>
 
 ##### [flowchart로 이동](#flowchart)
 
 #### 다음
-<img src="./img/flowchart_5.png" width="600" height="300"></br>
+<img src="./img/flowchart_5.png" width="500" height="240"></br>
 
 ##### [flowchart로 이동](#flowchart)
 
